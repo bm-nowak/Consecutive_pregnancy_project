@@ -12,4 +12,4 @@ The study focused on comparing the vaginal, feacal and gut microbiome at differe
 
 Analysis included descriptive statistics, alpha diversity (Shannon index, Simpson index, richness and evenness), beta diversity (Jaccard distance, Aitchison distance and Bray Curtis distance).
 
-Parts of the code were provided by or addapted from my co-supervisor Anusha Antony, and are indicated in the comments. 
+Parts of the code were provided by or addapted from my co-supervisor Anusha Antony.
