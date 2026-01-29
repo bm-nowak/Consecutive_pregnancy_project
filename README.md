@@ -1,5 +1,6 @@
 # SweMaMi
-Code written for a 30 credit bioinformatics project during autumn 2025 titled: 
+Code written for a 30 credit bioinformatics project during autumn 2025 titled:<br/>
+
 $\large{Investigating\ the\ Effect\ of\ Parity\ on\ Gut,\ Oral\ and\ Vaginal\ Microbiome}$<br/>
 $\large{in\ Nulliparous\ Pregnant\ Women}$
 
