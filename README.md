@@ -5,11 +5,12 @@ $\large{Investigating\ the\ Effect\ of\ Parity\ on\ Gut,\ Oral\ and\ Vaginal\ Mi
 $\large{in\ Nulliparous\ Pregnant\ Women}$
 
 Author: Barbara Maria Nowak <br/>
-Supervisor: Luisa Hugerth <br/>
-Co-Supervisor: Anusha Antony <br/>
+Supervisor: Assistant professor Luisa Hugerth <br/>
+Co-Supervisor: PhD student Anusha Antony <br/>
 
-The study focused on comparing the vaginal, feacal and gut microbiome at different time points in women with consecutive pregnancies in the same participant. Here samples were collected from the same women during consecutive pregnancies allowing for the study of the microbiome across parity.  
+Data collected during the Swedish maternal microbiome project (SweMaMi). <br/>
+This study focused on comparing the vaginal, faecal and gut microbiome at different time points in women with consecutive pregnancies in the same participant. Here samples were collected from the same women during consecutive pregnancies allowing for the study of the microbiome across parity.  
 
 Analysis included descriptive statistics, alpha diversity (Shannon index, Simpson index, richness and evenness), beta diversity (Jaccard distance, Aitchison distance and Bray Curtis distance).
 
-Parts of the code were provided by or addapted from my co-supervisor Anusha Antony.
+Parts of the code were provided by or adapted from my co-supervisor Anusha Antony.
